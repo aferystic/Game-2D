@@ -567,6 +567,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -590,7 +592,7 @@ PlayerSettings:
   cloudProjectId: 32e2d59e-02b7-4e4b-a910-1aec7cc86eb7
   framebufferDepthMemorylessMode: 0
   projectName: proba
-  organizationId: pietronaneta
+  organizationId: gk-proj
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

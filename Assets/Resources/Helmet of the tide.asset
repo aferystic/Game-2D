@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4769408b197137c48b690a0ca552fcce, type: 3}
+  m_Name: Helmet of the tide
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300004, guid: a352a2e9cbd30324cadb0be53a9a39a8, type: 3}
+  itemName: Helmet of the tide
+  quality: 4
+  strength: 4
+  agillity: 1
+  stamina: 12
+  armorType: 0

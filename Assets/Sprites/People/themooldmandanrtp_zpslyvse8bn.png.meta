@@ -1,0 +1,2031 @@
+fileFormatVersion: 2
+guid: cb524b987f28d5e448622161f6357afb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: themooldmandanrtp_zpslyvse8bn_0
+    21300002: themooldmandanrtp_zpslyvse8bn_1
+    21300004: themooldmandanrtp_zpslyvse8bn_2
+    21300006: themooldmandanrtp_zpslyvse8bn_3
+    21300008: themooldmandanrtp_zpslyvse8bn_4
+    21300010: themooldmandanrtp_zpslyvse8bn_5
+    21300012: themooldmandanrtp_zpslyvse8bn_6
+    21300014: themooldmandanrtp_zpslyvse8bn_7
+    21300016: themooldmandanrtp_zpslyvse8bn_8
+    21300018: themooldmandanrtp_zpslyvse8bn_9
+    21300020: themooldmandanrtp_zpslyvse8bn_10
+    21300022: themooldmandanrtp_zpslyvse8bn_11
+    21300024: themooldmandanrtp_zpslyvse8bn_12
+    21300026: themooldmandanrtp_zpslyvse8bn_13
+    21300028: themooldmandanrtp_zpslyvse8bn_14
+    21300030: themooldmandanrtp_zpslyvse8bn_15
+    21300032: themooldmandanrtp_zpslyvse8bn_16
+    21300034: themooldmandanrtp_zpslyvse8bn_17
+    21300036: themooldmandanrtp_zpslyvse8bn_18
+    21300038: themooldmandanrtp_zpslyvse8bn_19
+    21300040: themooldmandanrtp_zpslyvse8bn_20
+    21300042: themooldmandanrtp_zpslyvse8bn_21
+    21300044: themooldmandanrtp_zpslyvse8bn_22
+    21300046: themooldmandanrtp_zpslyvse8bn_23
+    21300048: themooldmandanrtp_zpslyvse8bn_24
+    21300050: themooldmandanrtp_zpslyvse8bn_25
+    21300052: themooldmandanrtp_zpslyvse8bn_26
+    21300054: themooldmandanrtp_zpslyvse8bn_27
+    21300056: themooldmandanrtp_zpslyvse8bn_28
+    21300058: themooldmandanrtp_zpslyvse8bn_29
+    21300060: themooldmandanrtp_zpslyvse8bn_30
+    21300062: themooldmandanrtp_zpslyvse8bn_31
+    21300064: themooldmandanrtp_zpslyvse8bn_32
+    21300066: themooldmandanrtp_zpslyvse8bn_33
+    21300068: themooldmandanrtp_zpslyvse8bn_34
+    21300070: themooldmandanrtp_zpslyvse8bn_35
+    21300072: themooldmandanrtp_zpslyvse8bn_36
+    21300074: themooldmandanrtp_zpslyvse8bn_37
+    21300076: themooldmandanrtp_zpslyvse8bn_38
+    21300078: themooldmandanrtp_zpslyvse8bn_39
+    21300080: themooldmandanrtp_zpslyvse8bn_40
+    21300082: themooldmandanrtp_zpslyvse8bn_41
+    21300084: themooldmandanrtp_zpslyvse8bn_42
+    21300086: themooldmandanrtp_zpslyvse8bn_43
+    21300088: themooldmandanrtp_zpslyvse8bn_44
+    21300090: themooldmandanrtp_zpslyvse8bn_45
+    21300092: themooldmandanrtp_zpslyvse8bn_46
+    21300094: themooldmandanrtp_zpslyvse8bn_47
+    21300096: themooldmandanrtp_zpslyvse8bn_48
+    21300098: themooldmandanrtp_zpslyvse8bn_49
+    21300100: themooldmandanrtp_zpslyvse8bn_50
+    21300102: themooldmandanrtp_zpslyvse8bn_51
+    21300104: themooldmandanrtp_zpslyvse8bn_52
+    21300106: themooldmandanrtp_zpslyvse8bn_53
+    21300108: themooldmandanrtp_zpslyvse8bn_54
+    21300110: themooldmandanrtp_zpslyvse8bn_55
+    21300112: themooldmandanrtp_zpslyvse8bn_56
+    21300114: themooldmandanrtp_zpslyvse8bn_57
+    21300116: themooldmandanrtp_zpslyvse8bn_58
+    21300118: themooldmandanrtp_zpslyvse8bn_59
+    21300120: themooldmandanrtp_zpslyvse8bn_60
+    21300122: themooldmandanrtp_zpslyvse8bn_61
+    21300124: themooldmandanrtp_zpslyvse8bn_62
+    21300126: themooldmandanrtp_zpslyvse8bn_63
+    21300128: themooldmandanrtp_zpslyvse8bn_64
+    21300130: themooldmandanrtp_zpslyvse8bn_65
+    21300132: themooldmandanrtp_zpslyvse8bn_66
+    21300134: themooldmandanrtp_zpslyvse8bn_67
+    21300136: themooldmandanrtp_zpslyvse8bn_68
+    21300138: themooldmandanrtp_zpslyvse8bn_69
+    21300140: themooldmandanrtp_zpslyvse8bn_70
+    21300142: themooldmandanrtp_zpslyvse8bn_71
+    21300144: themooldmandanrtp_zpslyvse8bn_72
+    21300146: themooldmandanrtp_zpslyvse8bn_73
+    21300148: themooldmandanrtp_zpslyvse8bn_74
+    21300150: themooldmandanrtp_zpslyvse8bn_75
+    21300152: themooldmandanrtp_zpslyvse8bn_76
+    21300154: themooldmandanrtp_zpslyvse8bn_77
+    21300156: themooldmandanrtp_zpslyvse8bn_78
+    21300158: themooldmandanrtp_zpslyvse8bn_79
+    21300160: themooldmandanrtp_zpslyvse8bn_80
+    21300162: themooldmandanrtp_zpslyvse8bn_81
+    21300164: themooldmandanrtp_zpslyvse8bn_82
+    21300166: themooldmandanrtp_zpslyvse8bn_83
+    21300168: themooldmandanrtp_zpslyvse8bn_84
+    21300170: themooldmandanrtp_zpslyvse8bn_85
+    21300172: themooldmandanrtp_zpslyvse8bn_86
+    21300174: themooldmandanrtp_zpslyvse8bn_87
+    21300176: themooldmandanrtp_zpslyvse8bn_88
+    21300178: themooldmandanrtp_zpslyvse8bn_89
+    21300180: themooldmandanrtp_zpslyvse8bn_90
+    21300182: themooldmandanrtp_zpslyvse8bn_91
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922127d8f72d7b4e8383e545c6a5009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a2a0f4a5b15549b43be19fc65b4f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d514904fcc7654784b420e5a5067d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e06a9a4ead6fa4d87b03c63cb3a691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1194b304e1d1d1447ae747a85bafc76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f5dde27ec46d45bf3da71fe9c5e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 224
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84cbe3a46d35b041bee8a0abeba7b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 224
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f12baf370ced24a99fc68822e7543e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0cf249b30d6b244b83e3da7cf678aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3aebe88e4d7d942ac45f9ee5f91b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f67be08fc630f4496e6f6db273d7ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 224
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b52a66cf5b4e4f8cbbab0218a3754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb9fc39a8353f34e8865a15654f6b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce70366ab35af4ebc06ede38facb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a12b06a586e5b4a9e6e0b2bc82a6cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67021a011bbfaa498d6f410c8175f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c91ad2d768ad49bab19e926362bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599d51c0259b44d4b82eddb295226fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d036f1b29c1229f4cbc6d4cf139f26be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd093c30c36272945ae91a70cdad57ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4923337f9f6d7a41a241d139ad2e362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30f4be87c6c1b74b86d24ede44a584c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaea04b7aa902e4d863eb59270d4301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a80bbdf1ca278458748a7af7977150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a225ed72971f314fb86ca9194a3884f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e28129b95ac02428ddee640f623334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9769a886e17640864a9c9d693d3d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f61eb8053e4804daa73ae6112745a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 160
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9bd6ed22d254c448338ef5893d11ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a237bcf8187b65498005dc02ba67ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ac8cd3b78a3b4d977a34be769668e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 160
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fa21119a7f0d498360073a119d91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7c8f7546b5764e92a0642312a38b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29102e210d019384fa5881b01675a23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 160
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ba1948eb1b44409c8197ca8699b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 160
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754ddf13fa84d34db6ebaf8b2cf0584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab2ffc180732e46b794e65d0a8ec39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af3703160aba048b202f1f40fa0be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367e5154709f94449368a407dffac16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c43dbec4fee34caf7abeca8fe68dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd21434ba3ba04989610b050ffc6c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 128
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e19836617a1243a19bfc1bb213f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88333bd0bba49e743ad4101c31258a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1a7ae40e50a03459e70e4a03648784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 128
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236fcbd8b5139ab43bf3dde15ecf97bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77e176b46432f44bda14cb29303bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66532cd3c9811df48904aa4931dd0b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 128
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050124ff1bb63042a7337a0b32b4474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34272fb9aecae84e81881ed6f22f286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15e59b3f0dd1349ac010d588dda74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b66a22a27c9244ba36776f8090b402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a7a3e8867a654699c2eedb1f0b24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84579b61c2d4343b84cf33386368c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3e1ed42e83654f9f63e996259cdb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4a68ce4ec86f45b47a4286b23ec66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306159604db6a29499d5bb24a8ca91d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90683aa7924e62d4cb98a71c0d84b982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_57
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90144b76f85970d4c9ca09896bb36f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081165a555a87aa439ac2a6d2227fa3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9627ca3c28464ea592153c6fb50f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac165667476e874290255abf609512a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a7722f5f4f2741a6a0d5706bc76c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffd21965bcb3d46b209ca64ea74408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c30a4c583c17842adf80d7855f86ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d726ec9011dbc4d909f1cb28bc3898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b27cda4339474fb221e8f3bed36c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2207a2fab00f3b3419de2f5d86a58624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd802ff5af436c4dac54ac68ce088b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b906397d77ae419aa5b3e846f886e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876097ce8ca1e54daac00646c6bf7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_70
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd62486b631fb24cbc5ab9da36b6906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_71
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af2ba608a494742bb8d9c97ffc8f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a75ba7f149694e9f252c1717d146e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55ea06ab82fdc40ad0fed2f3dc24cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65797931765495f4d811bff647a2082b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255b97cffcc26149a577c809e5d2cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4a6d71c864c840b302a694eaddba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbcda4146452e44e9dd35c4d9275407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739093458bf2a946a57d4db724832cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76536fe8ee0b0d47be9b6ac428b0b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 32
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063aa4c0fcff93f4283a10b384e56847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158e80d164034641bd431ba28bc1deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_82
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd837cf14d62404caa0629bdae4240b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a212f7cd2ab8de4489e109f058e95a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43751939c3922f478253c2b2df52cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb07555bfc04641b45f2ffba19b5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8332317b56ac4186b10b387477852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_87
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd1a38f66f95e4a95383e6c976e375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce874bc75788b574fb1f81d8f1c30a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58fd7846e6de54b82263119ad60aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6643b4e498034e9481bb8b46fe33b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themooldmandanrtp_zpslyvse8bn_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0b9d3630dd0314893d3b9d2676434e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a6f452ebd4893a4583373f403796ec8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac808833d6ea06448116a6166806761, type: 3}
+  m_Name: WallTile krag1
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 3868a0d50bb211c4f81054677a92301a, type: 3}
+  m_Color: {r: 0.70980394, g: 0.90196085, b: 0.1137255, a: 0.003921569}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 4899924579230209584, guid: 19a20a7021d4d54488bb56c9a0f2c149,
+    type: 3}
+  m_Flags: 1
+  m_ColliderType: 1

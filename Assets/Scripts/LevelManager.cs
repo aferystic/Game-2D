@@ -66,7 +66,7 @@ public class LevelManager: MonoBehaviour
                         GameObject go = Instantiate(newElement.MyElementPrefab);
                         go.transform.position = new Vector2(xPos, yPos);
 
-                        if(newElement == mapElements[2])
+                        if(newElement == mapElements[2] || newElement == mapElements[3])
                         {
                             go.GetComponent<SpriteRenderer>().sortingOrder = height*2-y*2;
                         }

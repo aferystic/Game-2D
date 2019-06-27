@@ -1,0 +1,2451 @@
+fileFormatVersion: 2
+guid: 5f9a568445bf5484682c70132e618a44
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_0
+    21300002: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_1
+    21300004: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_2
+    21300006: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_3
+    21300008: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_4
+    21300010: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_5
+    21300012: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_6
+    21300014: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_7
+    21300016: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_8
+    21300018: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_9
+    21300020: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_10
+    21300022: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_11
+    21300024: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_12
+    21300026: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_13
+    21300028: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_14
+    21300030: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_15
+    21300032: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_16
+    21300034: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_17
+    21300036: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_18
+    21300038: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_19
+    21300040: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_20
+    21300042: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_21
+    21300044: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_22
+    21300046: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_23
+    21300048: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_24
+    21300050: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_25
+    21300052: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_26
+    21300054: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_27
+    21300056: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_28
+    21300058: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_29
+    21300060: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_30
+    21300062: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_31
+    21300064: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_32
+    21300066: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_33
+    21300068: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_34
+    21300070: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_35
+    21300072: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_36
+    21300074: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_37
+    21300076: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_38
+    21300078: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_39
+    21300080: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_40
+    21300082: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_41
+    21300084: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_42
+    21300086: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_43
+    21300088: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_44
+    21300090: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_45
+    21300092: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_46
+    21300094: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_47
+    21300096: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_48
+    21300098: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_49
+    21300100: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_50
+    21300102: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_51
+    21300104: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_52
+    21300106: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_53
+    21300108: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_54
+    21300110: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_55
+    21300112: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_56
+    21300114: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_57
+    21300116: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_58
+    21300118: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_59
+    21300120: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_60
+    21300122: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_61
+    21300124: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_62
+    21300126: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_63
+    21300128: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_64
+    21300130: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_65
+    21300132: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_66
+    21300134: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_67
+    21300136: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_68
+    21300138: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_69
+    21300140: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_70
+    21300142: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_71
+    21300144: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_72
+    21300146: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_73
+    21300148: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_74
+    21300150: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_75
+    21300152: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_76
+    21300154: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_77
+    21300156: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_78
+    21300158: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_79
+    21300160: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_80
+    21300162: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_81
+    21300164: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_82
+    21300166: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_83
+    21300168: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_84
+    21300170: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_85
+    21300172: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_86
+    21300174: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_87
+    21300176: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_88
+    21300178: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_89
+    21300180: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_90
+    21300182: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_91
+    21300184: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_92
+    21300186: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_93
+    21300188: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_94
+    21300190: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_95
+    21300192: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_96
+    21300194: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_97
+    21300196: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_98
+    21300198: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_99
+    21300200: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_100
+    21300202: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_101
+    21300204: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_102
+    21300206: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_103
+    21300208: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_104
+    21300210: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_105
+    21300212: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_106
+    21300214: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_107
+    21300216: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_108
+    21300218: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_109
+    21300220: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_110
+    21300222: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_111
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aeaaec944bf714794f69f0f22de167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b99ba9e72038846a8f19454a587263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530f7a37b00bc940ac7ce7d36085ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 953
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3db7fa95f0f341bcab0b4643ce702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 953
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575a89edcacec54181c8122e385d5d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 953
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245928734d1743848a2f16fd0a02320c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9d9ebee662f644b2d6d927c50062e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 953
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f5fdd95bde854a96839dc2f8d62e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_8
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee281bc265bc8d1478abfc094e7436ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_9
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4db0ba9856e642a3c2c002c760515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_10
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9dcb0fdca0a840a8b7d00e9d0dc62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a798a19c2f185b47a8b189cbf82bc2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_12
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba5cf9e7c9d3684590953ca5b81da12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_13
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 953
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4471f9905864448b07cf66f120637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82fa17c53c1a34da6511853ad3c6cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1000ffb55b7643a8795c795dc14a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f17570085f91c64d9ef99e4bc44f8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c986333fb73b443bf05bc00098bda3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db9e1a2835d2ef4483a6def04d7f604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d72213ba8c1a848972bbff2a4e1589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66089b916751804c9e48f31721c7499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb28e2c5ee3504b9e2e1ba8274bb8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_22
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4073b5d5bc9484c95a5d18f7637cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_23
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd24b7fa5d82d42888dfc5bc7f8bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_24
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6e3e9d93b4174eacf9bb4d97f4d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_25
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9920a51b6710a489af79119b21195c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_26
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3342157d88121b84f90da7cd79442623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_27
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 818
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dcc16f41b21e74097067701e1079f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801b51d1d207b14f9a79df74d8885df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1be5d04bbe1c42876b87f5ca8cc9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c452f9a2556059b4abf80528f49e3a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30029b27c2b55468b8d66a3f477a91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46842a7a0991542b2c57837c8a3546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_33
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5530f0ee22554ca7dfd3a7949bd85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46395f1997152664d9dab65a9380456c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_35
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061dc41dd1e04a341bff198619de089e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_36
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3261625f6f0c429529df952f03919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_37
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770a66faa9f65d4898a33fb9d2e4969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_38
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18bf65442f9044e9d2e01f3cdf9341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_39
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b51472e8c0c1c4fae07a7190a7a1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_40
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73889f2a12284b4189780edc68b0c3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_41
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 683
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a431aecec372f4aa682778121fb241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827dac6734e32144188f7d111c046d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a25968a4520f5046845bc9e1d4f281f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec887adf9c605246b22b82f7ecdaacf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6e905fbdfb5b4e91b0814d6c181b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62dfbfd48a8b8e4cb64f54092198707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_47
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580cd536a792744790f1c415116ace8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d735570447204796043a898c83731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_49
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a881e2f63774343802d3c6fd7ec66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_50
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde05ed141704a147b27f455767b8a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_51
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df455906da27f8f47b0c22fc1e356e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_52
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7012cdf2ad8d1240ae3e1e9c5744f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_53
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763d21f4b00b0841b2285c0945bf4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_54
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 548
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8390a511cfeced48a44314b5cb34938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_55
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 561
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188b77fd32e62e4ebd2f2db339a5a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad723e9830e8a4a991cbdbb466078c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c8e2bdf9da354b935619d8266489c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af5df0fd184a640aea266061e6ff16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b620142baad74cbe812d9ba745c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_60
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720b1f746c506004b80fc10108b1c302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_61
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899a031fe3a4de46b582829ce51f55c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_62
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb836639b5567845afb5e77494b947e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_63
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e86f23bba35d04987529fb6d185e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_64
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c3510bb3befd49a056965829b4a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_65
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990ae2a6b6a0564e8bcc31db78fc852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_66
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af41568b3f11b488083ee1062baa19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_67
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc46759351daf34d9b378f4e1176a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_68
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 413
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cefab97dc2e6647bdadc0c9c28a5b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_69
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 418
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de47fdffbe12cfc4198a5bf7b58b7acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c86a07ccd8ed44b543718f0d64959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0ad1d12d92e44a971c1a6af62af28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776330965bc6b3648a589686699b9e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_73
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00565df6c8733a499456eb4943c72b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_74
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba4ec828a8637449dd87b068376787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_75
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f292a743071495428a862f6ea190cd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_76
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e44e60f30c30f46924d75abb8f0366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_77
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c9b237a9a86c45a795cf308a83e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_78
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a553f6ac039c4b8fa734073115841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_79
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85711ea8e55ac9c44b1363f9cc2caa3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_80
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a0f016fc3b0e46a3a801820753346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_81
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b5679d94839043b33dd2a0685e14f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_82
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b46adbd6b80b24b93ee04675547d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_83
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 278
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d86fca907a3c844803f3478a88fdc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577614eb5ef470408b63883a294f57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480b5e65f4f4b4844821a1188e11d394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae97584cbcbe84bb0e3181ac8ce233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_87
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3953d99aea85439dea4cd89fd2ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_88
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a467946b81239d488073237114054cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff8a2174c80c3429584dd44a59a425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_90
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0ff63572300145b53dba18bb37672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_91
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30494da35a0389b41af1f308353581be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_92
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9c32611e67d54188fb970df0586d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_93
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5a0f5abfde444abce79cd9bbe98e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_94
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aff316649a34444ab0e2f6e967f8d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_95
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93f5af71048dc49a49782c21ff0ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_96
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6244c77199fe9bf409c3b16ff1dea523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_97
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 143
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e06ca3340fd854ba5331713a1170ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7546ad6490b1834393e9606abb8413f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_99
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117a1e8c1a77a94eb2166126d9bc356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0730ba72a9704cbaf7f845dc517e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_101
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9add3ab438b32f41adcf48686c43fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_102
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27d9b79439054e4688a3e4f8377df28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_103
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a5f6c14faf0b4fa41aefb7f1dbf1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_104
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99b51e1ff212944a462860e366fce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_105
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206bfe0647ac40498417f3f18bfc6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_106
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdd09bcd5632449b6a6d09a4f73734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_107
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05335366b496eb74cba6c43b386a2a3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_108
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66afc6fcae1644ba99d572d8bcac7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_109
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1128096cce759949b55e60184b6d5ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_110
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781976a3d7be8248b0e97e297b307a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RpgArmorSets_screenshot_01-1920x1080-33644aaed5f6bc5f43904232f115c625_111
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 8
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8abd7f0fe557c54ea08e8da7a87dd27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af570154e6815cf41af854967e0fe84a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
